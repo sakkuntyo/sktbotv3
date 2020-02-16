@@ -1,0 +1,28 @@
+{
+  "name": "sktbot",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "@line/bot-sdk": "^6.0.1",
+    "async": "^2.6.0",
+    "bitly": "^6.1.0",
+    "body-parser": "~1.17.1",
+    "cheerio-httpcli": "^0.7.3",
+    "cookie-parser": "~1.4.3",
+    "date-utils": "^1.2.21",
+    "debug": "~2.6.3",
+    "express": "~4.15.2",
+    "goo.gl": "^0.1.4",
+    "jade": "~1.11.0",
+    "morgan": "~1.8.1",
+    "nightmare": "^3.0.1",
+    "pm2": "^4.2.3",
+    "serve-favicon": "~2.4.2",
+    "sqlite3": "^4.0.0",
+    "xvfb": "^0.2.3",
+    "youtube-dl": "^1.12.2"
+  }
+}
