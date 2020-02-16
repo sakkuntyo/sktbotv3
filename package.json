@@ -17,7 +17,7 @@
     "express": "~4.15.2",
     "goo.gl": "^0.1.4",
     "jade": "~1.11.0",
-    "morgan": "~1.8.1",
+    "morgan": "~1.9.1",
     "nightmare": "^3.0.1",
     "pm2": "^4.2.3",
     "serve-favicon": "~2.4.2",
